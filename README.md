@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FatichOsman
-- 👀 I’m interested in data science, data analytics and machine learning.
-- 🌱 I’m currently learning data analytics and machine learning.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning CSS and Javascript.
 - 📫 How to reach me? Here you are... e-mail: osmanfatih96@gmail.com
                                        Linkedin: Fatich Osman
                                       
